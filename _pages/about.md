@@ -26,8 +26,9 @@ Prior to joining UMass Amherst, I obtained my bachelor's degree in Computer Scie
 ### Deep Sudoku Solver
 An image to image Sudoku solving pipeline using CNN for image segmentation and OCR(Optical character recognition).[(code)](https://github.com/L4zyy/Sudoku_Solver)
 
+<img src="../images/sdks-1.jpg" alt="input sudoku image" width="40%" height="40%"/><img src="../images/sdks-2.png" alt="output sudoku image" width="40%" height="40%"/>
 
 ### Voxie
 A simple voxel editor powered by OpenGL and [ImGui](https://github.com/ocornut/imgui).[(code)](https://github.com/L4zyy/Voxie)
 
-![image of voxie](/files/voxie.png)
+<img src="../images/voxie.png" alt="image of voxie" width="80%" height="80%"/>
