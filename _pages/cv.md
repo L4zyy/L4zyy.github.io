@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Here is a [PDF](/files/CV.pdf) version of my CV (Last updated on Feb. 1 2020).
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
