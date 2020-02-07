@@ -18,7 +18,7 @@ Prior to joining UMass Amherst, I obtained my bachelor's degree in Computer Scie
 
 [](I am interested in Computer Vision and Machine Learning. Specifically on the topics of 3D Vision, Video Analysis and Self-Supervised Learning.)
 * 3D Vision
-* Video Analysis
+* Scene Understanding
 * Self-Supervised learning
 
 ## Projects
