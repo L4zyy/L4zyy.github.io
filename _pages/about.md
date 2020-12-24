@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Email: zhiyilai **at** umass **dot** edu  
-[CV](/files/CV.pdf) | [简历](/files/CV-zh.pdf) | [Github](https://github.com/L4zyy)
+[CV](/files/CV.pdf) | [简历](/files/resume-zh_CN.pdf) | [Github](https://github.com/L4zyy)
 
 I am currently a Computer Science master's student at [UMass Amherst](https://www.umass.edu/).
 Prior to joining UMass Amherst, I obtained my bachelor's degree in Computer Science and Technology from [Huazhong University of Science & Technology (HUST)](http://english.hust.edu.cn/).
@@ -64,7 +64,12 @@ An image to image Sudoku solving pipeline using CNN for image segmentation and O
 
 <img src="../images/sdks-1.jpg" alt="input sudoku image" width="80%" height="80%"/><img src="../images/sdks-2.png" alt="output sudoku image" width="80%" height="80%"/>
 
+### EleNA
+A navigation systems optimize for the shortest or fastest route.[[Code](https://github.com/L4zyy/Elena)]
+
+<img src="../images/EleNA.png" alt="input EleNA image" width="80%" height="80%"/>
+
 ### Voxie
-A simple voxel editor powered by OpenGL and [ImGui](https://github.com/ocornut/imgui).[(code)](https://github.com/L4zyy/Voxie)
+A simple voxel editor powered by OpenGL and [ImGui](https://github.com/ocornut/imgui).[[Code](https://github.com/L4zyy/Voxie)]
 
 <img src="../images/voxie.png" alt="image of voxie" width="80%" height="80%"/>
