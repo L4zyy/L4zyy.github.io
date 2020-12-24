@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Email: zhiyilai **at** umass **dot** edu  
-[CV](/files/CV.pdf) | [Github](https://github.com/L4zyy)
+[CV](/files/CV.pdf) | [简历](/files/CV-zh.pdf) | [Github](https://github.com/L4zyy)
 
 I am currently a Computer Science master's student at [UMass Amherst](https://www.umass.edu/).
 Prior to joining UMass Amherst, I obtained my bachelor's degree in Computer Science and Technology from [Huazhong University of Science & Technology (HUST)](http://english.hust.edu.cn/).
@@ -18,11 +18,27 @@ Prior to joining UMass Amherst, I obtained my bachelor's degree in Computer Scie
 
 [](I am interested in Computer Vision and Machine Learning. Specifically on the topics of 3D Vision, Video Analysis and Self-Supervised Learning.)
 * 3D Vision
-* Self-Supervised Learning
+* Human Pose and Shape Estimation
 * Video Understanding and Compression
 * Scene Understanding
 
 ## Research Experiments
+
+### Consistent VIBE [[Code](https://github.com/L4zyy/CVIBE)|[PDF](/files/CVIBE.pdf)]
+Sep 2020 - Dec 2020
+
+· Analyze the output and performance of the VIBE(Video Inference for Human Body Pose and Shape
+Estimation) model.
+· Propose a consistent loss and Analyze the effects of this loss on the model.
+· Replace the GRU module with transformer encoder layers, which shows a performance improvement.
+
+### The Use of Transformer in Object Detection Tasks [[Code](https://github.com/L4zyy/detr)|[PDF](/files/Transformer.pdf)]
+Sep 2020 - Dec 2020
+
+· Analyze the performance of DETR model and traditional Faster RCNN model on different datasets.
+· Compare the output distributions of DETR model and Faster RCNN model on COCO dataset.
+· Propose several modifications to the DETR model.
+· Implement a TPU version of DETR model.
 
 ### Improving few-shot learning with self-supervision in 3D data
 Feb 2020 - Present
@@ -44,7 +60,7 @@ Feb 2020 - Present
 ## Projects
 
 ### Deep Sudoku Solver
-An image to image Sudoku solving pipeline using CNN for image segmentation and OCR(Optical character recognition).[(code)](https://github.com/L4zyy/Sudoku_Solver)
+An image to image Sudoku solving pipeline using CNN for image segmentation and OCR(Optical character recognition).[[Code](https://github.com/L4zyy/Sudoku_Solver)]
 
 <img src="../images/sdks-1.jpg" alt="input sudoku image" width="80%" height="80%"/><img src="../images/sdks-2.png" alt="output sudoku image" width="80%" height="80%"/>
 
