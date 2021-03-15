@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Email: zhiyilai **at** umass **dot** edu  
-[CV](/files/CV.pdf) | [简历](/files/resume-zh_CN.pdf) | [Github](https://github.com/L4zyy)
+[CV](/files/ZhiyiLai_CV_EN.pdf) | [简历](/files/resume-zh_CN.pdf) | [Github](https://github.com/L4zyy)
 
 I am currently a Computer Science master's student at [UMass Amherst](https://www.umass.edu/).
 Prior to joining UMass Amherst, I obtained my bachelor's degree in Computer Science and Technology from [Huazhong University of Science & Technology (HUST)](http://english.hust.edu.cn/).
