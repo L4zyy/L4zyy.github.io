@@ -40,23 +40,6 @@ Sep 2020 - Dec 2020
 · Propose several modifications to the DETR model.
 · Implement a TPU version of DETR model.
 
-### Improving few-shot learning with self-supervision in 3D data
-Feb 2020 - Present
-
-Research the classification accuracy improvement under few-shot learning settings with self-supervision for different types of 3D data.
-
-· Purposed self-supervision tasks for different 3D data.
-
-· Implemented prototypical network baselines on shape classification with different classic 3D feature
-extractor networks.
-
-### Video Compression with CNN
-Feb 2020 - Present
-
-· Research deep learning solutions for video compression task.
-· Ran experiments on state-of-the-art models with different motion estimation methods.
-
-
 ## Projects
 
 ### Deep Sudoku Solver
