@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Email: zhiyilai **at** umass **dot** edu  
-[CV](/files/ZhiyiLai_CV_EN.pdf) | [简历](/files/resume-zh_CN.pdf) | [Github](https://github.com/L4zyy)
+[CV](/files/ZhiyiLai_CV_EN.pdf) | [简历](/files/ZhiyiLai_CV_ZH.pdf) | [Github](https://github.com/L4zyy)
 
 I am currently a Computer Science master's student at [UMass Amherst](https://www.umass.edu/).
 Prior to joining UMass Amherst, I obtained my bachelor's degree in Computer Science and Technology from [Huazhong University of Science & Technology (HUST)](http://english.hust.edu.cn/).
@@ -19,8 +19,7 @@ Prior to joining UMass Amherst, I obtained my bachelor's degree in Computer Scie
 [](I am interested in Computer Vision and Machine Learning. Specifically on the topics of 3D Vision, Video Analysis and Self-Supervised Learning.)
 * 3D Vision
 * Human Pose and Shape Estimation
-* Video Understanding and Compression
-* Scene Understanding
+* Video Compression
 
 ## Research Experiments
 
