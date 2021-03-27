@@ -46,6 +46,11 @@ An image to image Sudoku solving pipeline using CNN for image segmentation and O
 
 <img src="../images/sdks-1.jpg" alt="input sudoku image" width="80%" height="80%"/><img src="../images/sdks-2.png" alt="output sudoku image" width="80%" height="80%"/>
 
+### Sea Warfare
+A Third-Personal Shooting sea war survival game made with Unity 3D. The player will control a ship running on a unknown sea. In the way, he will suffer attack from hostile ships and some unknown emergencies. What he needs to do is to defeat these enemies and survive as long as possible.
+
+<img src="../images/SeaWarfare.png" alt="Sea Warfare game snapshot" width="90%" height="90%"/>
+
 ### EleNA
 A navigation systems optimize for the shortest or fastest route.[[Code](https://github.com/L4zyy/Elena)]
 
