@@ -42,7 +42,7 @@ Sep 2020 - Dec 2020
 ## Projects
 
 ### Deep Sudoku Solver
-An image to image Sudoku solving pipeline using CNN for image segmentation and OCR(Optical character recognition).[[Code](https://github.com/L4zyy/Sudoku_Solver)]
+An image to image Sudoku solving pipeline using CNN for image segmentation and OCR(Optical character recognition).[[Code](https://github.com/L4zyy/Sudoku_Solver)|[PDF](/files/Sudoku_Solver.pdf)]
 
 <img src="../images/sdks-1.jpg" alt="input sudoku image" width="80%" height="80%"/><img src="../images/sdks-2.png" alt="output sudoku image" width="80%" height="80%"/>
 
