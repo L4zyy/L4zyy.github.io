@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Email: zhiyilai **at** umass **dot** edu  
+Email: yncxlzy **at** gmail **dot** com  
 [CV](/files/ZhiyiLai_CV_EN.pdf) | [简历](/files/ZhiyiLai_CV_ZH.pdf) | [Github](https://github.com/L4zyy)
 
 I am currently a Computer Science master's student at [UMass Amherst](https://www.umass.edu/).
